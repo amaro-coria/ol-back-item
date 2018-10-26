@@ -1,0 +1,7 @@
+com\ol\demo\controller\ItemController.class
+com\ol\demo\persistence\entity\Item.class
+com\ol\demo\util\dto\ItemOperationDTO.class
+com\ol\demo\DemoApplication.class
+com\ol\demo\util\dto\ItemPartialUpdateDTO.class
+com\ol\demo\util\OLConstants.class
+com\ol\demo\persistence\repository\ItemRepository.class
